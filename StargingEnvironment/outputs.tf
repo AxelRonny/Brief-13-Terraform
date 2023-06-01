@@ -1,5 +1,5 @@
 output "The_subnet_ID" {
- value = module.webserverModuleaxel.The_vnet_ID
+ value = module.webserverModuleaxel.The_subnet_ID
 }
 
 output "The_vnet_ID" {
