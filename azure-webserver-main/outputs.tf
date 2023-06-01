@@ -3,7 +3,7 @@ output "The_subnet_ID" {
 }
 
 output "The_vnet_ID" {
- value = azurerm_virtual_network.webserver-net.id
+ value = azurerm_virtual_network.webserver-vnet.id
 }
 
 output "The_websrever_Private_ip" {
